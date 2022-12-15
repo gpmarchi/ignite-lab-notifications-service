@@ -39,3 +39,4 @@ lerna-debug.log*
 
 # Database sqlite
 *.db
+*.db-journal
